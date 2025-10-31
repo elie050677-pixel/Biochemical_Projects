@@ -23,4 +23,8 @@ Mandarin orange juice required fewer drops, meaning it contains more Vitamin C t
 Vitamin C (ascorbic acid) acts as electron donating (reducing) agent.
 But iodine is an electron accepting (oxidizing) agent.
 
-Iodine solution (I2) is usually present in water as triiodide ion (I3). It becomes so 
+Iodine solution (I2) is usually present in water as triiodide ion (I3). When Vitamin C meets it, it becomes like this: 
+
+C6H8O6 + I2 = C6H6O6 + 2HI 
+
+Vitamin C (C6H8O6) reduces iodine. Iodine is reduced and turns iodide ions, so blue color in the solution will disappear because starch-iodine complex will not exist.
